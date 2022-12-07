@@ -1,0 +1,3 @@
+Something urgent happened!!! So this file was added before any other codes.
+
+Another urgent happened!!! So this line was added to hot-fix.txt
